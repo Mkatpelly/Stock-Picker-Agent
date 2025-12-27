@@ -12,6 +12,8 @@ Visualizes historical prices and model predictions interactively using Streamlit
 
 You can choose the ticker, history window, and basic LSTM hyperparameters directly from the sidebar.
 
+It can only give you advice on what trades to make, it cannot be considered true financial advice.
+
 2. Project Structure
 A typical layout for the code shown earlier:
 
